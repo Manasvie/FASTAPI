@@ -14,3 +14,6 @@ and in a way it's faster than Express which is NodeJs framework ( and Express is
 FASTAPI also has interactive API documentation, so it helps you testing the different HTTP requests like get post,
 
 put and delete visually using Open API which is itself based on JSON schema.
+
+# Future scope
+Future scope is to make a frontend for the api uring React and making it a fullstack (FARM stack) website.
