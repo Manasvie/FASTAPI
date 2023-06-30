@@ -16,4 +16,4 @@ FASTAPI also has interactive API documentation, so it helps you testing the diff
 put and delete visually using Open API which is itself based on JSON schema.
 
 # Future scope
-Future scope is to make a frontend for the api uring React and making it a fullstack (FARM stack) website.
+Future scope is to make a frontend for the api using React and making it a fullstack (FARM stack) website.
